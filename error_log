@@ -1,0 +1,143 @@
+[09-Sep-2020 08:10:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 08:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 08:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 08:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 13:11:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:33:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:42:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:42:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:42:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:43:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:44:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:45:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 35
+[09-Sep-2020 14:59:14 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 10 by reference in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 36
+[09-Sep-2020 14:59:17 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 10 by reference in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 36
+[09-Sep-2020 14:59:44 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 10 by reference in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 36
+[09-Sep-2020 14:59:46 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 10 by reference in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 36
+[09-Sep-2020 14:59:49 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 10 by reference in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 36
+[09-Sep-2020 14:59:50 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 10 by reference in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/harsh.software/public_html/xapi/couriers.php on line 36
+[09-Sep-2020 17:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/tesla.codes/public_html/xapi/auth.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/tesla.codes/public_html/xapi/auth.php on line 19
+[09-Sep-2020 17:22:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/tesla.codes/public_html/xapi/auth.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/tesla.codes/public_html/xapi/auth.php on line 19
+[11-Sep-2020 16:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 40
+[11-Sep-2020 19:59:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 13
+[11-Sep-2020 20:01:43 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 89
+[11-Sep-2020 20:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 73
+[11-Sep-2020 20:04:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 78
+[11-Sep-2020 20:17:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 77
+[11-Sep-2020 20:35:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 74
+[11-Sep-2020 20:36:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 74
+[11-Sep-2020 20:38:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 74
+[11-Sep-2020 20:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 74
+[11-Sep-2020 20:42:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 74
+[11-Sep-2020 20:45:49 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 73
+[11-Sep-2020 20:46:39 UTC] PHP Notice:  Undefined variable: stmt in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 79
+[11-Sep-2020 20:46:39 UTC] PHP Notice:  Trying to get property 'row' of non-object in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 79
+[11-Sep-2020 20:46:39 UTC] PHP Notice:  Undefined variable: stmt in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 79
+[11-Sep-2020 20:46:39 UTC] PHP Notice:  Trying to get property 'row' of non-object in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 79
+[11-Sep-2020 20:52:14 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 73
+[11-Sep-2020 20:53:17 UTC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/u448101502/domains/tesla.codes/public_html/xapi/couriers.php on line 73
