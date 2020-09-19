@@ -1,7 +1,7 @@
 <?php 
 
 	require_once 'DbConnect.php';
-	
+
 	$response = array();
 	
 	if(isset($_GET['apicall'])){
@@ -46,6 +46,18 @@
 							$response['error'] = false; 
 							$response['message'] = 'User registered successfully'; 
 							$response['user'] = $user; 
+
+								try { 
+							$headers = "From:Team Deliverinator<no-reply@deliverinator.com>" . "\r\n" ."Reply-To:no-reply@deliverinator.com" . "\r\n";
+
+
+
+$mail = mail($email,"Welcome to Deliverinator","Yolo bruh",$headers);
+
+} catch (Exception $e) { 
+    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}"; 
+} 
+
 						}
 					}
 					
